@@ -1,6 +1,6 @@
 # theme_sns_sci
 
-Repository containing a **custom theme for Seaborn** focused on scientific and professional visualizations, with style configuration, color palette, and options to automatically save plots—including copying the image to the clipboard on Windows.
+Repository containing a **custom theme for Seaborn** focused on scientific and professional visualizations, with style configuration, color palette, and options to automatically save plots, including copying the image to the clipboard on Windows.
 
 ---
 
