@@ -7,6 +7,10 @@ from PIL import Image
 import win32clipboard
 import win32con
 
+#
+# This visualization theme is based on and inspired by the work of **Koundinya Desiraju** for R's ggplot2, available at https://rpubs.com/Koundy/71792
+#
+
 
 # Function to configure the global theme for plots
 def configure_theme(grid_set=False):
