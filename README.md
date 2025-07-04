@@ -17,6 +17,12 @@ Repository containing a **custom theme for Seaborn** focused on scientific and p
 This visualization theme is based on and inspired by the work of **Koundinya Desiraju** for R's ggplot2, available at [https://rpubs.com/Koundy/71792](https://rpubs.com/Koundy/71792).
 ---
 
+## Example
+
+![Exemplo](https://github.com/altanizio/theme_sns_sci/blob/main/img.png?raw=true)
+
+---
+
 ## Installation
 
 Copy the `theme_sns_sci.py` file into your project or install it as you prefer.
