@@ -14,6 +14,7 @@ Repository containing a **custom theme for Seaborn** focused on scientific and p
 - Control over grids, spines, and legends for clearer and minimalist plots;
 - A function to save plots to disk and copy the image directly to the clipboard (Windows only).
 
+This visualization theme is based on and inspired by the work of **Koundinya Desiraju** for R's ggplot2, available at [https://rpubs.com/Koundy/71792](https://rpubs.com/Koundy/71792).
 ---
 
 ## Installation
